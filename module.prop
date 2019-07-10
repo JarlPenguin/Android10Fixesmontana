@@ -1,7 +1,7 @@
-id=UnityTemplate
-name=Unity (Un)Installer Template
-version=v4.2
-versionCode=29
-author=ahrion, zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612
+id=Android10Fixesmontana
+name=Android 10 Fixes for Moto G5S (montana)
+version=1.2
+versionCode=3
+author=JarlPenguin
+description=Fixes RIL and enables the navigation bar on Android 10 for the Moto G5S (montana).
+support=https://t.me/G5Treble
